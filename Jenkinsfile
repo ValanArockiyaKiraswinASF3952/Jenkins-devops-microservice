@@ -6,4 +6,4 @@
 // 	echo "Deployment Test"
 // }
 
-
+////Declarative
