@@ -1,6 +1,9 @@
-node {
-	echo "Build"
-	echo "Test"
-	echo "Integration Test"
-	echo "Deployment Test"
-}
+////scripted
+// node {
+// 	echo "Build"
+// 	echo "Test"
+// 	echo "Integration Test"
+// 	echo "Deployment Test"
+// }
+
+
