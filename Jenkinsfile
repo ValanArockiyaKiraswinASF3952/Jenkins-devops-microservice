@@ -9,11 +9,12 @@
 ////Declarative
 
 pipeline {
-	agent { docker { image 'node:16.16.0' } }
+	agent any
+	//agent { docker { image 'node:16.16.0' } }
 	stages {
 		stage('Build') {
 			steps {
-				sh 'node --version'
+				//sh 'node --version'
 				echo "Build"
 			}
 		}
